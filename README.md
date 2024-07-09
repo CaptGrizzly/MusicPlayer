@@ -21,7 +21,6 @@ Ensure your development environment is set up for the target hardware.
 Steps to Build and Run
 Clone the Repository
 
-sh
 Copy code
 git clone <repository-url>
 cd <repository-directory>
